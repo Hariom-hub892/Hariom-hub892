@@ -1,59 +1,82 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2c2c2c&height=200&section=header&text=HARIOM&fontSize=45&fontColor=D4AF37&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Architect%20|%20Founder%20|%20Builder&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:001f1f&height=220&section=header&text=HARIOM%20%7C%20ULTRA%20HACKER%20MODE&fontSize=42&fontColor=00FFCC&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3200&color=FFD700&center=true&vCenter=true&width=1000&lines=Hariom;AI+Systems+Architect;Founder+%7C+Strategist+%7C+Builder;Power.+Precision.+Scale." />
+<img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00FFCC&center=true&vCenter=true&width=1000&lines=Hariom;Cyber+Systems+Architect;AI+Engineer;Automation+Specialist;Welcome+to+the+Cyber+Domain"/>
 </p>
 
 ---
 
-# 🧠 System Identity
+# 🧠 AI CORE ONLINE
 
-```diff
-+ Name: Hariom
-+ Role: Founder / AI Systems Architect
-+ Focus: Automation, AI Infrastructure, Scalable Systems
-+ Status: Building
-- Comfort Zone: Not Installed
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350">
+</p>
+
+```bash
+> initializing AI core...
+
+User: Hariom
+Mode: Ultra Hacker
+Access Level: ROOT
+Systems: Active
+Firewall: Bypassed
+
+Modules Loaded:
+✔ AI Systems
+✔ Automation Engines
+✔ Backend Infrastructure
+✔ Cloud Deployment
 ```
 
 ---
 
-# ⚡ Tech Arsenal
+# 🟢 MATRIX SYSTEM
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,typescript,nodejs,fastapi,docker,flutter,tensorflow,git,github,vscode,linux" />
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="500">
 </p>
 
 ---
 
-# 📊 GitHub Intelligence
+# ⚔ CYBER TECH STACK
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ImBajrangi&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImBajrangi&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://skillicons.dev/icons?i=python,nodejs,typescript,fastapi,docker,linux,git,github,tensorflow,vscode"/>
 </p>
 
 ---
 
-# 🔥 Commit Streak
+# 🏆 HACKER TROPHIES
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=ImBajrangi&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=matrix&no-frame=true&margin-w=10"/>
 </p>
 
 ---
 
-# 📈 Activity Graph
+# 📊 SYSTEM ANALYTICS
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ImBajrangi&theme=react-dark&bg_color=000000&color=FFD700&line=FFD700&point=ffffff&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 </p>
 
 ---
 
-# 🐍 Contribution Predator
+# 🔥 COMMIT STREAK
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=chartreuse-dark&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
@@ -61,34 +84,46 @@
 
 ---
 
-# 🧬 Founder Doctrine
+## 🛰 SYSTEM ACTIVITY SURVEILLANCE
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hariom-hub892&theme=react-dark&bg_color=000000&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=true"/>
+</p>
+
+---
+
+# ⚙ SYSTEM COMMANDS
 
 ```bash
-$ doctrine --core
+$ build
+Creating scalable software systems
 
-Build fast.
-Automate everything.
-Break limits.
-Scale systems.
-Stay dangerous.
+$ automate
+Eliminating repetitive tasks with code
+
+$ train-ai
+Developing intelligent systems
+
+$ deploy
+Shipping production-ready applications
 ```
 
 ---
 
-# 🌐 Connect
+# 🌐 NETWORK ACCESS
 
 <p align="center">
 
-<a href="https://linkedin.com/in/vrindopnishad">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=gold"/>
+<a href="mailto:your_email@gmail.com">
+<img src="https://img.shields.io/badge/email-000000?style=for-the-badge&logo=gmail&logoColor=00ffcc"/>
 </a>
 
-<a href="mailto:vrinda.connect.us@gmail.com">
-<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=gold"/>
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=00ffcc"/>
 </a>
 
-<a href="https://vrindopnishad.in">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=gold"/>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=00ffcc"/>
 </a>
 
 </p>
@@ -96,5 +131,5 @@ Stay dangerous.
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:001f1f&height=150&section=footer"/>
 </p>
