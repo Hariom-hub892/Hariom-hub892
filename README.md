@@ -51,27 +51,25 @@ Modules Loaded:
 # 🏆 HACKER TROPHIES
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=matrix&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Hariom-hub892&theme=matrix&no-frame=true&margin-w=10"/>
 </p>
 
 ---
 
-# 📊 SYSTEM ANALYTICS
+## 📊 SYSTEM ANALYTICS
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Hariom-hub892&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariom-hub892&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 </p>
-
----
 
 # 🔥 COMMIT STREAK
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=chartreuse-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Hariom-hub892&theme=chartreuse-dark&hide_border=true"/>
 </p>
 
 ---
